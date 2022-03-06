@@ -34,7 +34,8 @@ export default function Textconvert(props) {
     </div>
     <div style={{color: props.mode==='light'?'black':'White'}}>
        <h2>your text summary</h2>
-       <p>your text has {text.split(" ").length} words and{text.length} characters</p>
+      <p>{text.split(/\s+/).filter((element)=>{return element.length!==0}).length} words and {text.length} characters</p>
+            <p>{0.008 *  text.split(/\s+/).filter((element)=>{return element.length!==0}).length} Minutes read</p>
     </div>
     </>
   )
