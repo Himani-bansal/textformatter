@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textformatter/static/css/main.073c9b0a.css",
+    "main.js": "/textformatter/static/js/main.5a9f418a.js",
+    "static/js/787.5480e000.chunk.js": "/textformatter/static/js/787.5480e000.chunk.js",
+    "index.html": "/textformatter/index.html",
+    "main.073c9b0a.css.map": "/textformatter/static/css/main.073c9b0a.css.map",
+    "main.5a9f418a.js.map": "/textformatter/static/js/main.5a9f418a.js.map",
+    "787.5480e000.chunk.js.map": "/textformatter/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a9f418a.js"
+  ]
+}
